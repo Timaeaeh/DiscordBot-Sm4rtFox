@@ -1,0 +1,23 @@
+{
+  "name": "discordbot-sm4rtfox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timaeaeh/DiscordBot-Sm4rtFox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timaeaeh/DiscordBot-Sm4rtFox/issues"
+  },
+  "homepage": "https://github.com/Timaeaeh/DiscordBot-Sm4rtFox#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1"
+  }
+}
